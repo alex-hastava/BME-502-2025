@@ -1,6 +1,7 @@
 [deps]
 ApproxFun = "28f2ccd6-bb30-5033-b560-165f7b14dc2f"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 LsqFit = "2fda8390-95c7-5789-9bda-21331edee243"
 NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
